@@ -1,4 +1,4 @@
-v# Banking_analytics
+# Banking_analytics
 
 ### Project Overview
 
@@ -20,3 +20,31 @@ In the initial data preparation phase ,  we performed the following tasks :
 1. Data loading and inspection.
 2. Handling missing values.
 3. Data cleaning and formatting.
+
+### Exploratory Data Analysis
+
+EDA involved exploring the banking data to answer key questions , such as :
+
+ - What is the total loan amount funded?
+ - what is the total revenue?
+ - Disbursement trend ?
+
+   ### Data Analysis
+
+   Include some interesting code worked with
+
+   ```sql
+   select concat(round(sum(`funded Amount`) / 1000000, 2), 'M') AS
+   `Total Loan Amount funded`    from banking_data;
+   ```
+
+   ### Results
+   
+
+  
+
+   
+
+   
+
+   
