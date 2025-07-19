@@ -1,4 +1,4 @@
-# Banking_analytics
+v# Banking_analytics
 
 ### Project Overview
 
@@ -13,3 +13,10 @@ This data analysis project aims to provide insights into the bank loan and bank 
   - My SQL - Data Analysis
   - Power BI - Creating reports
   - Tableau - Creating reports
+
+### Data Cleaning/Preparation
+
+In the initial data preparation phase ,  we performed the following tasks :
+1. Data loading and inspection.
+2. Handling missing values.
+3. Data cleaning and formatting.
