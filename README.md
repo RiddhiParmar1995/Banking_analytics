@@ -9,7 +9,7 @@ This data analysis project aims to provide insights into the bank loan and bank 
 
  ### Tools
 
-  - Excel
-  - My SQL
-  - Power BI
-  - Tableau
+  - Excel - Data Cleaning [Download here](https://microsoft.com)
+  - My SQL - Data Analysis
+  - Power BI - Creating reports
+  - Tableau - Creating reports
