@@ -76,6 +76,16 @@ EDA involved exploring the banking data to answer key questions , such as :
 
      We don't have exact amount to calculate the high risk transactions so it became more difficult to find accurate high risk transactions.
 
+
+
+   😄
+   💻
+
+   |Heading1|Heading2|
+   |--------|---------|
+   |Content|Content2|
+   |Python|SQL|
+
    
 
   
