@@ -56,6 +56,10 @@ EDA involved exploring the banking data to answer key questions , such as :
    - There are very less transactions occure in the month of december so bank should give some offer to maximize the transaction frequency.
    - There are 20.43K high-risk transactions which need further investigation.
    - The Delinquency Rate is 10.84% (7,106 out of 65,535 loans). This reflects a moderate credit risk and serves as a warning that the bank should closely monitor borrowers loan statuses.
+  
+   ### Limitations
+
+     We don't have exact amount to calculate the high risk transactions so it became more difficult to find accurate high risk transactions.
 
    
 
