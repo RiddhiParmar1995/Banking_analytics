@@ -25,7 +25,7 @@ https://1drv.ms/x/c/1372e8f61b6b92f5/EVp7Elfx2XxKrO507wwSkYUBQa-TBc4p5l5TcQu1iig
 
  ### Tools
 
-  - Excel - Data Cleaning [Download here](https://microsoft.com)
+  - Excel - Data Cleaning 
   - My SQL - Data Analysis
   - Power BI - Creating reports
   - Tableau - Creating reports
