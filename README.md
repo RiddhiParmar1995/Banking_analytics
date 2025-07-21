@@ -11,9 +11,13 @@
  - [Results](#results)
  - [Recommendations](#recommendations)
  - [Limitations](#limitations)
+   
 ### Project Overview
 
 This data analysis project aims to provide insights into the bank loan and bank credit - debit overall performances . By analyzing various aspects of the bank data , we seek to identify  Total loan , Total amount funded , Total interst , state wise performance , branch wise performance , Total Revenue etc,.
+
+https://1drv.ms/x/c/1372e8f61b6b92f5/EVp7Elfx2XxKrO507wwSkYUBQa-TBc4p5l5TcQu1iigeIA?e=PVKuP4
+
 
 ### Data Sources 
  The Primary dataset used for this anaysis is the "Bank Data Analystics.csv" file, containing detail bank operations .
