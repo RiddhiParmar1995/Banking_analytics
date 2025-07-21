@@ -1,5 +1,16 @@
 # Banking_analytics
 
+## Table of Contents
+
+ - [Project Overview](#project-overview)
+ - [Data Sources](#data-sources)
+ - [Tools](#tools)
+ - [Data Cleaning/Preparation](#data-cleaning/preparation)
+ - [Exploratory Data Analysis](#exploratory-data-analysis)
+ - [Data Analysis](#data-analysis)
+ - [Results](#results)
+ - [Recommendations](#recommendations)
+ - [Limitations](#limitations)
 ### Project Overview
 
 This data analysis project aims to provide insights into the bank loan and bank credit - debit overall performances . By analyzing various aspects of the bank data , we seek to identify  Total loan , Total amount funded , Total interst , state wise performance , branch wise performance , Total Revenue etc,.
