@@ -13,6 +13,7 @@
  - [Limitations](#limitations)
    
 ### Project Overview
+---
 
 This data analysis project aims to provide insights into the bank loan and bank credit - debit overall performances . By analyzing various aspects of the bank data , we seek to identify  Total loan , Total amount funded , Total interst , state wise performance , branch wise performance , Total Revenue etc,.
 
