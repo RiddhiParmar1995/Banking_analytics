@@ -25,6 +25,8 @@ In the initial data preparation phase ,  we performed the following tasks :
 
 EDA involved exploring the banking data to answer key questions , such as :
 
+
+
  - What is the total loan amount funded?
  - what is the total revenue?
  - Disbursement trend ?
@@ -39,6 +41,22 @@ EDA involved exploring the banking data to answer key questions , such as :
    ```
 
    ### Results
+
+   The analysis results are summarized as follows:
+
+   1.The bank's credit amount is more than bank's debit amount so that bank is in growth.
+   
+   2.The bank has actively collected it's interst that is around 155 Million.
+   
+   3.The highest loan is taken by customer is home loan and is about to fully paid.
+
+   ### Recommendations
+
+   Based on the analysis , we recommend the following actions:
+   - There are very less transactions occure in the month of december so bank should give some offer to maximize the transaction frequency.
+   - There are 20.43K high-risk transactions which need further investigation.
+   - The Delinquency Rate is 10.84% (7,106 out of 65,535 loans). This reflects a moderate credit risk and serves as a warning that the bank should closely monitor borrowers loan statuses.
+
    
 
   
